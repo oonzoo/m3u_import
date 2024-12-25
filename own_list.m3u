@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
-https://webtvstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-name="FTV Ⓢ" tvg-logo="https://camo.githubusercontent.com/900734555b9048a6e77bd4c81bcbd2aa5ea716fe7686f57924037e60b3710110/68747470733a2f2f692e696d6775722e636f6d2f4a7076733475332e706e67" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-name="Glas Drine" tvg-logo="https://camo.githubusercontent.com/52fe8dab73e1321003631287a7933a837708be9ac6cdf0de6d80c70dee068010/68747470733a2f2f692e696d6775722e636f6d2f394e67784f64622e706e67" group-title="Bosnia and Herzegovina",RTV Glas Drine
@@ -20,8 +20,12 @@ rtsp://185.50.56.16:554/neontelvizija
 http://94.250.2.6:7374/play/a02u/index.m3u8
 #EXTINF:-1 tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-id="BNTV.ba" group-title="Bosnia and Herzegovina",RTV BN
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-name="SuperTV " tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-id="SuperTV.ba" group-title="Bosnia and Herzegovina",SuperTV
+#EXTINF:-1 tvg-name="SuperTV" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-id="SuperTV.ba" group-title="Bosnia and Herzegovina",SuperTV
 https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-name="Kanal 6" tvg-logo="https://i.imgur.com/GGhvR0l.png" tvg-id="Kanal6.ba" group-title="Bosnia and Herzegovina",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-name="TNT Kids" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-id="TNTKidsTV.ba" group-title="Bosnia and Herzegovina",TNT Kids
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 ::contentReference[oaicite:0]{index=0}
  
