@@ -5,6 +5,24 @@
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News",Al Jazeera Balkans (1080p)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Undefined",TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
+
+#EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" group-title="Music",Sehara TV (720p)
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Undefined",Malta" tvg-logo="" group-title="Undefined",Malta (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/malta.m3u8
+
+#EXTINF:-1 tvg-id="B1TV.ba" tvg-logo="https://i.imgur.com/60t5epe.png" group-title="Undefined",B1 TV (1080p) [Not 24/7]
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+
+#EXTINF:-1 tvg-id="IzvornaTV.ba" tvg-logo="https://i.imgur.com/lThyC3i.png" group-title="Music",Izvorna TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8
+
 #EXTINF:-1 tvg-name="FTV Ⓢ" tvg-logo="https://camo.githubusercontent.com/900734555b9048a6e77bd4c81bcbd2aa5ea716fe7686f57924037e60b3710110/68747470733a2f2f692e696d6775722e636f6d2f4a7076733475332e706e67" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 
