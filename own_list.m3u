@@ -3,7 +3,7 @@
 # BiH
 
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal
 
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News",Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
@@ -62,16 +62,16 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 # HR
 
 #EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
 
 #EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
 
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" group-title="Croatia",HRT 3
-https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
