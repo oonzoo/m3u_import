@@ -24,7 +24,7 @@ http://wowza.bihnet.net:88/hls/b1-live.m3u8
 https://ythls.armelin.one/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8
 
 #EXTINF:-1 tvg-name="FTV Ⓢ" tvg-logo="https://camo.githubusercontent.com/900734555b9048a6e77bd4c81bcbd2aa5ea716fe7686f57924037e60b3710110/68747470733a2f2f692e696d6775722e636f6d2f4a7076733475332e706e67" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
-https://uzivo.rtrs.tv/tv/live/index.m3u8
+http://94.250.2.6:7374/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-name="Glas Drine" tvg-logo="https://camo.githubusercontent.com/52fe8dab73e1321003631287a7933a837708be9ac6cdf0de6d80c70dee068010/68747470733a2f2f692e696d6775722e636f6d2f394e67784f64622e706e67" group-title="Bosnia and Herzegovina",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
