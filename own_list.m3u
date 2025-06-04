@@ -38,26 +38,6 @@ https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png" group-title="BOSNA",Super Tv
 https://mirtv.club/live/mirtv/index.m3u8
 
-# HR
-
-#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-
-#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-
-#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" group-title="Croatia",HRT 3
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-
-#EXTINF:-1 tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-
-#EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
-https://stream.luci.xyz/hls/LTV.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="International",
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-
 # Sandzak
 
 #EXTINF:-1 tvg-id="" tvg-name="Sandzak TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/126.sr.png" group-title="Srbija",Sandzak Tv
