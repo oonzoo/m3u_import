@@ -2,8 +2,17 @@
 
 # BiH
 
+#EXTINF:-1 tvg-name="TV BPK Ⓢ" tvg-logo="https://camo.githubusercontent.com/a9441edb63737e6863fed2accb4e68040f2709bfff423a2e45dc10b731464291/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f642f64662f4c6f676f5f6f665f5254565f42504b5f476f726125433525424564652e6a7067" tvg-id="RTVBPK.ba" group-title="Bosnia and Herzegovina",TV BPK Ⓢ
+http://94.250.2.6:7374/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Glas Drine" tvg-logo="https://camo.githubusercontent.com/1629a5c1925c9094674fbf62d98d8d5cb06608421f9c178c4b33715d9992c08b/68747470733a2f2f692e696d6775722e636f6d2f394e67784f64622e706e67" tvg-id="RTVGlasDrine.ba" group-title="Bosnia and Herzegovina",RGD
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://camo.githubusercontent.com/dff4e5ff828d542ed577111f48bf88e20168d8be2bb642fde5b8a82a73afb7b3/68747470733a2f2f692e696d6775722e636f6d2f4a7076733475332e706e67" tvg-id="FTV" group-title="Bosnia and Herzegovina",FTV Ⓢ
+http://94.250.2.6:7374/play/a02s/index.m3u8
+
 #EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News",Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
